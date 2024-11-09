@@ -1,0 +1,18 @@
+F:\ITI Task\Inventory System\bin\Debug\net8.0\Inventory System.exe
+F:\ITI Task\Inventory System\bin\Debug\net8.0\Inventory System.deps.json
+F:\ITI Task\Inventory System\bin\Debug\net8.0\Inventory System.runtimeconfig.json
+F:\ITI Task\Inventory System\bin\Debug\net8.0\Inventory System.dll
+F:\ITI Task\Inventory System\bin\Debug\net8.0\Inventory System.pdb
+F:\ITI Task\Inventory System\obj\Debug\net8.0\Inventory System.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI Task\Inventory System\obj\Debug\net8.0\Inventory System.AssemblyInfoInputs.cache
+F:\ITI Task\Inventory System\obj\Debug\net8.0\Inventory System.AssemblyInfo.cs
+F:\ITI Task\Inventory System\obj\Debug\net8.0\Inventory System.csproj.CoreCompileInputs.cache
+F:\ITI Task\Inventory System\obj\Debug\net8.0\Inventory System.dll
+F:\ITI Task\Inventory System\obj\Debug\net8.0\refint\Inventory System.dll
+F:\ITI Task\Inventory System\obj\Debug\net8.0\Inventory System.pdb
+F:\ITI Task\Inventory System\obj\Debug\net8.0\Inventory System.genruntimeconfig.cache
+F:\ITI Task\Inventory System\obj\Debug\net8.0\ref\Inventory System.dll
+F:\ITI Task\Inventory System\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+F:\ITI Task\Inventory System\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\ITI Task\Inventory System\obj\Debug\net8.0\Inventory System.csproj.AssemblyReference.cache
+F:\ITI Task\Inventory System\obj\Debug\net8.0\Inventor.E1B7300A.Up2Date
